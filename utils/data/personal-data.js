@@ -6,12 +6,12 @@ export const personalData = {
   email: 'deepakshah5348@gmail.com',
   phone: '+919717926128',
   address: 'Gurgaon, Haryana, India - 122002  ',
-  github: 'https://github.com/deepakshah53',
+  github: 'https://github.com/deepakshah23',
   facebook: 'https://www.facebook.com/',
   linkedIn: 'https://www.linkedin.com/in/deepak-shah-638a14236/',
   twitter: 'https://twitter.com/deepakshah5348',
   stackOverflow: 'https://stackoverflow.com',
   leetcode: "https://leetcode.com",
   devUsername: "deepakshah5348",
-  resume: "#contact"
+  resume: "https://drive.google.com/file/d/15DaaCZsT7EF6-uq0x221cPMPLHRXKqlH/view?usp=drivesdk"
 }
